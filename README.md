@@ -1,2 +1,2 @@
 # clone-tabnews
-projeto para treinar e aperfeiçoar meus conhecimentos em programação (pego projetos de cursos e livros e tento aplicar o meu conhecimento)
+A project to train and improve my programming skills (I take projects from courses and books and try to apply my knowledge).
